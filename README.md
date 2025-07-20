@@ -1,6 +1,6 @@
-# ✈️ Flight Simulator Controller Configurations
+# ✈️ Flight Simulator Controller 2024 Controller Configurations
 
-Welcome to this repository! It contains pre-configured input profiles tailored for various flight simulator controllers in Microsoft Flight Simulator (MSFS). These configuration files simplify setup and improve your flying experience, whether you're piloting jets, turboprops, or airliners.
+Welcome to this repository! It contains pre-configured input/control;er profiles tailored for various flight simulator controllers in Microsoft Flight Simulator (MSFS) 2024. These configuration files simplify setup and improve your flying experience, whether you're piloting jets, turboprops, or airliners.
 
 ## 📂 File Index
 
