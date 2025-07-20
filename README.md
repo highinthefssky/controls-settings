@@ -1,2 +1,42 @@
-# controls-settings
-Repository containing MSFS 2024 control settings XML files for different devices
+# ✈️ Flight Simulator Controller Configurations
+
+Welcome to this repository! It contains pre-configured input profiles tailored for various flight simulator controllers in Microsoft Flight Simulator (MSFS). These configuration files simplify setup and improve your flying experience, whether you're piloting jets, turboprops, or airliners.
+
+## 📂 File Index
+
+Each entry includes the filename, controller, settings type (airplanes or general controls), and a clear description to help you select the right setup.
+
+| Filename | Controller | Settings Type | Description |
+|----------|------------|----------------|-------------|
+| T.16000M - msfs custom - airplanes controls | T.16000M | Airplanes controls | Airplane-specific bindings for the T.16000M joystick |
+| T.16000M - msfs custom - general controls | T.16000M | General controls | General MSFS controls setup for T.16000M |
+| T.16000M - T.16000M + TWCS - airplanes controls | T.16000M + TWCS | Airplanes controls | Flight bindings using joystick and throttle combo |
+| T.16000M - T.16000M + TWCS - general controls | T.16000M + TWCS | General controls | Non-flight input setup for combined use |
+| TWCS Throttle - T.16000M + TWCS - airplanes controls | TWCS + T.16000M | Airplanes controls | Airplane controls mapped across TWCS and joystick |
+| TWCS Throttle - T.16000M + TWCS - general controls | TWCS + T.16000M | General controls | General MSFS controls with throttle and stick |
+| TWCS Throttle - custom msfs - airplanes controls | TWCS Throttle | Airplanes controls | Standalone throttle bindings for aircraft |
+| TWCS Throttle - custom msfs - general controls | TWCS Throttle | General controls | Menu and camera controls using TWCS throttle |
+| VelocityOne Flight (Quad) - A321 - airplanes controls | VelocityOne Flight (Quad) | Airplanes controls | Tailored setup for Airbus A321 aircraft |
+| VelocityOne Flight (Quad) - A321 - general controls | VelocityOne Flight (Quad) | General controls | Non-flight bindings for A321 with Quad controller |
+| VelocityOne Flight (Quad) - custom msfs - 2 engines - general controls | VelocityOne Flight (Quad) | General controls | Generic MSFS controls for twin-engine aircraft |
+| VelocityOne Flight (Quad) - custom msfs - 2 engines - airplanes controls | VelocityOne Flight (Quad) | Airplanes controls | Twin-engine aircraft flight setup |
+| VelocityOne Flight (Quad) - custom msfs - 4 engines - airplan controls | VelocityOne Flight (Quad) | Airplanes controls | Custom bindings for four-engine aircraft |
+| VelocityOne Flight (Quad) - custom msfs - 4 engines - general controls | VelocityOne Flight (Quad) | General controls | General control layout for four-engine planes |
+| VelocityOne Flight (Quad) - msfs custom - airplanes controls | VelocityOne Flight (Quad) | Airplanes controls | All-purpose aircraft profile using quad system |
+| VelocityOne Flight (Quad) - msfs custom - airplane controls | VelocityOne Flight (Quad) | Airplanes controls | Similar to above with emphasis on aircraft setup |
+| VelocityOne Flight (Quad) - msfs custom - general controls | VelocityOne Flight (Quad) | General controls | Custom MSFS layout for non-flight functions |
+| VelocityOne Flight (Quad) - TBM930 - airplanes controls | VelocityOne Flight (Quad) | Airplanes controls | Dedicated TBM930 aircraft configuration |
+| VelocityOne Flight (Yoke) - msfs custom - airplanes controls | VelocityOne Flight (Yoke) | Airplanes controls | Flight bindings designed for yoke controller |
+| VelocityOne Flight (Yoke) - msfs custom - general controls | VelocityOne Flight (Yoke) | General controls | Yoke-based layout for menus and systems |
+| VelocityOne Flight (Yoke) - msfs custom | VelocityOne Flight (Yoke) | General controls | All-in-one control scheme for yoke setups |
+
+
+
+## 🎥 How to Import These Files
+
+To learn how to import these configuration files into MSFS, check out this helpful [YouTube tutorial](https://www.youtube.com/watch?v=example).
+
+---
+
+Feel free to contribute or suggest new profiles!
+
